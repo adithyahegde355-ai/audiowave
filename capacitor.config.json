@@ -1,0 +1,9 @@
+{
+  "appId": "com.vibewave.player",
+  "appName": "VibeWave",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

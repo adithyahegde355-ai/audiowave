@@ -1,0 +1,6 @@
+{
+  "name": "VibeWave - Audio Player & Music Discovery",
+  "description": "Stream high-fidelity authorized audio previews, manage queues, discover trending music, and visualize audio in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
